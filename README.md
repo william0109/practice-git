@@ -1,3 +1,3 @@
 "# Practice Git" 
 
-T
+This is my Git practice
